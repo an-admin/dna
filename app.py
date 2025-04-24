@@ -62,4 +62,4 @@ if st.button("🎁 What's my fun trait?"):
     st.info(random.choice(traits))
 
 st.markdown("---")
-st.caption("Created with ❤️ for DNA Day by [Your Name]")
+st.caption("Created with ❤️ for DNA Day by Anchit Das")
